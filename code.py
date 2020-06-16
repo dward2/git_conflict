@@ -3,8 +3,8 @@ def add_numbers(a, b, c, d):
     return answer
 
 
-def subtract_numbers (a, b, c):
-    answer = a - b - c
+def subtract_numbers (a, b, c, d):
+    answer = a - b - c - d
     return answer
 
 
