@@ -4,7 +4,7 @@ def add_numbers(a, b, c, d):
 
 
 def subtract_numbers (a, b, c):
-    answer = a - b - c
+    answer = a - b - c - c
     return answer
 
 
